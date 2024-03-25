@@ -128,10 +128,6 @@ Send Me Your Token After Creating 😊🥳
 - **Devnet**: This guide is for the Devnet.
 - **Phantom Wallet**: Ensure your Phantom Wallet is up to date.
 
-## Support and Contributions 🤝
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/kavinthangavel/KVN-Token/issues). For major changes, please open an issue first to discuss what you would like to change.
-
 ## License 📄
 
 This project is [MIT](./LICENSE) licensed.
