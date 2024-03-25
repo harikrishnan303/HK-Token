@@ -32,7 +32,7 @@ async function main(){
     const ourMetadata = { 
         name: "HariKrish", 
         symbol: "HK",
-        uri: "https://raw.githubusercontent.com/kavinthangavel/KAV-Token/main/metadata.json", //change this to your metadata.json url
+        uri: "https://raw.githubusercontent.com/harikrishnan303/HK-Token/main/metadata.json", //change this to your metadata.json url
     }
     if(INITIALIZE){
         const onChainData = {

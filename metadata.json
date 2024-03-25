@@ -1,11 +1,6 @@
 {
   "name": "HariKrish",
   "symbol": "HK",
-  "description": "Just a Guy Who's Hero For Fun",
-  "image": "https://raw.githubusercontent.com/kavinthangavel/KVN-Token/main/assets/logo.png",
-  "extensions": {
-    "website": "https://kavinthangavel.tech",
-    "telegram": "https://telegram.me/Devil_BE",
-    "discord": "https://discord.gg/gGs95hWaTV"
-  }
+  "description": "My First Token",
+  "image": "https://raw.githubusercontent.com/harikrishnan303/HK-Token/main/assets/logo.png"
 }
