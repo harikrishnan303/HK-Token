@@ -22,8 +22,8 @@ const INITIALIZE = true;  //Change this to false if you want to update metadata
 
 async function main(){
     console.log("let's name token-22 Token!");
-    const myKeypair = loadWalletKey("HKKtr1rkXh8gzSDRmwEPGFNjYWvH8FD4YU7PqRP9cvhw.json");
-    const mint = new web3.PublicKey("HtNtx9HtMGc3Zm6PQhNYup7uRKmTwWPKQMPqoDLkibe2"); //9iyFfxwE4zQYsJazaMX9EFp3saurMrA826QiJfUXsTAT - mainnet token-22
+    const myKeypair = loadWalletKey("HK39UWrZfvSDfQCxFAatw4iXfPeg8iDYcfSoa5Jdca8v.json");
+    const mint = new web3.PublicKey("HtNtx9HtMGc3Zm6PQhNYup7uRKmTwWPKQMPqoDLkibe2"); 
 
     const umi = createUmi("https://api.devnet.solana.com");
     const signer = createSignerFromKeypair(umi, fromWeb3JsKeypair(myKeypair))
